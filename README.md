@@ -27,3 +27,22 @@ Once you have successfully signed-in to your AWS account, navigate to the top-ri
 You'll then want to navigate to the search bar and type in 'EC2.' Select the EC2 service that appears on top.
 
 ![](./image2/image3.png)
+
+Click on the 'Launch Instances' button that appears in the top right side of your screen.
+
+![](./image2/image4.png)
+
+Proceed by selecting the Ubuntu Server 20.04 LTS (HVM) option as the Amazon Machine Image (AMI).
+
+![](./image2/image5.png)
+
+
+On the following page, locate and select t2.micro as the instance type and click 'Review and Launch.'
+
+![](./image2/image6.png)
+
+Next, click on 'Launch' at the bottom of the screen.
+
+
+
+
