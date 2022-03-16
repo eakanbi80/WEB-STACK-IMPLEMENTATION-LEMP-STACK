@@ -19,3 +19,11 @@ The Nginix server used in this project, is the main difference in LEMP versus LA
 We'll need an AWS account and a virtual server with Ubuntu Server OS. If you don't have one already, follow the steps in my [LAMP Stack](https://github.com/eakanbi80/web-stack-implementation-lamp) project to create a free tier AWS account.
 
 ![](./image2/image1new.png)
+
+Once you have successfully signed-in to your AWS account, navigate to the top-right of the screen and select your preferred region––this should be the closest region to your physical location.
+
+![](./image2/image2new.png)
+
+You'll then want to navigate to the search bar and type in 'EC2.' Select the EC2 service that appears on top.
+
+![](./image2/image3.png)
