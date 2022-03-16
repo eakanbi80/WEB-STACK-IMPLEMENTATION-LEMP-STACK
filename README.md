@@ -43,6 +43,15 @@ On the following page, locate and select t2.micro as the instance type and click
 
 Next, click on 'Launch' at the bottom of the screen.
 
+![](./image2/image7.png)
+
+A window should appear asking you to create a key pair. Make sure you create one and then select 'Download Key Pair.' **It's important to know the location the file was downloaded to not lose the .pem file. You will need this file in order to connect into your server from your local PC. After you've downloaded the key pair, check the box for the acknowledgement, and then click on "Launch Instances".**
+
+![](./image2/image8.png)
+
+Awesome, you've successfully launched an EC2 instance!
+
+
 
 
 
